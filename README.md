@@ -3,10 +3,8 @@
 <tr>
   <h4>Inspiration</h4> 
     <tr>
-      <tr> What's the universe like in your imagination? </tr> The UNIVERSE may be infinite, but we can only see a finite section of it due to the finite speed of light.</td>
-      <td>A polygon MESH is a collection of vertices, edges and faces that defines the shape of an object in 3D computer graphics.</td>
- 
-    </tr>
+      <tr> What's the universe like in your imagination? </tr> The UNIVERSE may be infinite, but we can only see a finite section of it due to the finite speed of light.</td> <td>A polygon MESH is a collection of vertices, edges and faces that defines the shape of an object in 3D computer graphics.</td>
+     </tr>
 </tr>
 
 <tr>
