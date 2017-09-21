@@ -8,8 +8,8 @@
     </tr>
 </tr>
 <tr>
-  <h4>Expression Form</h4> 
+  <h4>Form</h4> 
   <tr>
-   <tr>Slight interaction using mouse and projection mapping (through Syphon:http://syphon.v002.info/)on a 3D cardboard Model.</tr>
+   <tr>Slight interaction using mouse and projection mapping (through Syphon:http://syphon.v002.info/) on a 3D cardboard Model.</tr>
   </tr>
 </tr>
