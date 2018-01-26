@@ -1,4 +1,4 @@
-# MESH
+# ORIGINATION
 <h4>--- ITP Spring 2017 Classes - Nothing, Creating Illusion & Pixel By Pixel ---</h4>
 <tr>
   <h4>Inspiration</h4> 
